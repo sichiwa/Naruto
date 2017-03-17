@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naruto", "Naruto\Naruto.csproj", "{1805EB9C-0604-40EA-9AC5-ADEFD06976BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sasuke", "..\Sasuke\Sasuke\Sasuke.csproj", "{3FA3FA0F-CA34-49C9-9E31-1FFA9B680552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1805EB9C-0604-40EA-9AC5-ADEFD06976BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1805EB9C-0604-40EA-9AC5-ADEFD06976BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1805EB9C-0604-40EA-9AC5-ADEFD06976BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1805EB9C-0604-40EA-9AC5-ADEFD06976BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA3FA0F-CA34-49C9-9E31-1FFA9B680552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA3FA0F-CA34-49C9-9E31-1FFA9B680552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA3FA0F-CA34-49C9-9E31-1FFA9B680552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA3FA0F-CA34-49C9-9E31-1FFA9B680552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
